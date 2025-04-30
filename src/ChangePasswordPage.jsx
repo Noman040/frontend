@@ -74,7 +74,7 @@ const ChangePasswordPage = () => {
           <span className="text-white text-4xl font-bold">RP</span>
         </div>
       </div>
-      
+      // meassage
       {/* Channel Info */}
       <div className="flex-1 text-center md:text-left">
         <div className="flex flex-col md:flex-row md:items-center justify-between">
